@@ -72,7 +72,7 @@ void introScreen()
 	glClear(GL_COLOR_BUFFER_BIT);
 
 		glColor3f(1.0, 0.0, 0.0);
-	displayRasterText(-425, 490, 0.0,"NMAM INSTITUTE OF TECHNOLOGY");
+	displayRasterText(-425, 490, 0.0,"BMS INSTITUTE OF TECHNOLOGY AND MANAGEMENT");
 		glColor3f(1.0, 1.0, 1.0);
 	displayRasterText(-700, 385, 0.0,"DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING");
 		glColor3f(0.0, 0.0, 1.0);
@@ -82,16 +82,15 @@ void introScreen()
    		glColor3f(1.0, 0.7, 0.8);
 	displayRasterText(-100, 150, 0.0,"created by");
 		glColor3f(1.0, 1.0, 1.0);
-	 displayRasterText(-130, 80, 0.0,"SHOOTERS");
-	 	glColor3f(1.0, 0.0, 0.0);
 	  displayRasterText(-800, -100, 0.0," STUDENT NAMES");
 	  	glColor3f(1.0, 1.0, 1.0);
-	displayRasterText(-800, -200, 0.0," Saurav N Shetty");
-	displayRasterText(-800, -285, 0.0," Rajath R Pai");
+	displayRasterText(-800, -200, 0.0," Kumar Anurag");
+	displayRasterText(-800, -285, 0.0," Ramansh Taluja");
+	displayRasterText(-800, -370, 0.0," Santanu Agarwal");
 		glColor3f(1.0, 0.0, 0.0);
 	displayRasterText(500, -100, 0.0,"Under the Guidance of");
 		glColor3f(1.0, 1.0, 1.0);
-	displayRasterText(500, -200, 0.0,"Prof X");
+	displayRasterText(500, -200, 0.0,"Prof Shankar R");
 		glColor3f(1.0, 0.0, 0.0);
 	displayRasterText(-250, -400, 0.0,"Academic Year 2020-2021");
         glColor3f(1.0, 1.0, 1.0);
